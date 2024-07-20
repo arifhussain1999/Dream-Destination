@@ -3,8 +3,8 @@ img{
     height: 500px;
 }
 textarea {
-    resize: both; /* Allow resizing in both directions */
-    overflow: auto; /* Show scrollbar if needed */
+    resize: both; 
+    overflow: auto; 
 }
 table,td,th{
    
